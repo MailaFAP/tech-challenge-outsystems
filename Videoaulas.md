@@ -1,6 +1,6 @@
 # Videoaulas
 
-Aplicação web para gestão e consumo de videoaulas, com experiência diferenciada para Professor/a e Aluno/a, além de funcionalidades de autenticação, recuperação de acesso e gestão de perfil.
+Aplicação web para gestão e consumo de videoaulas, com experiência diferenciada para Professor/a e Aluno/a.
 
 ## 🔗 Acesso Rápido
 
@@ -29,12 +29,10 @@ O Videoaulas é um app construído para disponibilizar conteúdos em vídeo de f
 - permitir que professores publiquem e mantenham videoaulas
 - permitir que alunos consultem a lista de conteúdos e acessem os links dos vídeos
 
-
-
 O projeto foi estruturado em fluxos separados para:
 
 - negócio principal
-- autenticação e perfil
+- escolha de perfil
 - layouts e blocos reutilizáveis
 - integração REST
 

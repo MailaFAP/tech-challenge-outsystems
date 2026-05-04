@@ -36,7 +36,6 @@ O projeto foi estruturado em fluxos separados para:
 - negócio principal
 - autenticação e perfil
 - layouts e blocos reutilizáveis
-- emails transacionais
 - integração REST
 
 ## 2. Objetivo
@@ -333,7 +332,7 @@ A aplicação diferencia o comportamento entre Professor/a e Aluno/a com base no
 
 - **UserRole**
 
-Isso controla a experiência da interface, mas não representa autorização completa.
+Isso controla a experiência da interface.
 
 
 ## 10. Regras de negócio atuais
